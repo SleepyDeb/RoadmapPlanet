@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/add.png</file>
+        <file>Icons/bar-chart.png</file>
+        <file>Icons/bar-chart-horizontal.png</file>
+        <file>Icons/connection.png</file>
+        <file>Icons/edit-add-4.png</file>
+        <file>Icons/edit-redo-3.png</file>
+        <file>Icons/edit-undo-3.png</file>
+        <file>Icons/go-down-4.png</file>
+        <file>Icons/go-up-4.png</file>
+        <file>Icons/list.png</file>
+        <file>Icons/list-1.png</file>
+        <file>Icons/pencil.png</file>
+        <file>Icons/pie-chart.png</file>
+        <file>Icons/printer.png</file>
+        <file>Icons/route.png</file>
+        <file>Icons/settings-1.png</file>
+        <file>Icons/shopping-bag.png</file>
+        <file>Icons/zoom-in.png</file>
+        <file>Icons/zoom-out.png</file>
+        <file>Icons/milestone.png</file>
+        <file>Icons/document-save-5.png</file>
+        <file>Icons/document-save-as-6.png</file>
+        <file>Icons/folder-open-3.png</file>
+        <file>Icons/document-new-4.png</file>
+        <file>Icons/edit-delete-6.png</file>
+    </qresource>
+</RCC>
