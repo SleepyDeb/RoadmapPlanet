@@ -1,2 +1,2 @@
 # RoadmapPlanet
-A small sowftware to draw projects roadmaps in a very base Gantt (QT + KDChart)
+A small software to draw projects roadmaps in a very basics Gantt (QT + KDChart)
